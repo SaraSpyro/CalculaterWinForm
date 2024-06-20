@@ -1,0 +1,30 @@
+D:\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.exe.config
+D:\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.exe
+D:\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.pdb
+D:\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csprojAssemblyReference.cache
+D:\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.frm.resources
+D:\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.Properties.Resources.resources
+D:\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.GenerateResource.cache
+D:\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.exe
+D:\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.pdb
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.exe.config
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.exe
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.pdb
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.AssemblyReference.cache
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.SuggestedBindingRedirects.cache
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.frm.resources
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.Properties.Resources.resources
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.GenerateResource.cache
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.CoreCompileInputs.cache
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.exe
+G:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.pdb
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.exe.config
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.exe
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\bin\Debug\Another_Calculater.pdb
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.AssemblyReference.cache
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.frm.resources
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.Properties.Resources.resources
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.GenerateResource.cache
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.csproj.CoreCompileInputs.cache
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.exe
+E:\My work\Windows Form\Another_Calculater\Another_Calculater\obj\Debug\Another_Calculater.pdb
